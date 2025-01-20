@@ -11,7 +11,7 @@ Ejercicio de realización de una página web básica con HTML y CSS para afianza
 - Drinks (vídeos y tablas)
 - Coffee Survey (formularios y botones)
 
-### **GIT commands**
+### **GIT commands para control de versiones**
 
 Para inicializar el proyecto y enlazarlo con un repositorio remoto:
 
